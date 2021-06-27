@@ -85,10 +85,12 @@
         autoplay: true,
         dots:true,
         nav:false,
-        autoplayTimeout: 8500,
-        smartSpeed: 200,
         slideSpeed : 200,
         paginationSpeed : 300,
+        itemsDesktop : true,
+        itemsDesktopSmall : true,
+        itemsTablet: true,
+        itemsMobile : true,
         navText: ['<i class="fa fa-chevron-left"></i>','<i class="fa fa-chevron-right"></i>'],
         responsive: {
             0: {
